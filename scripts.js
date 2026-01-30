@@ -36,6 +36,5 @@ function ButtonNoHandle() {
         i++;
     }
     
-    yesButton.style.fontSize = `${12 + i*10}px`; 
-    scale+=0.2;
+    yesButton.style.fontSize = `calc(5svh + ${i * 10}px)`; 
 }
