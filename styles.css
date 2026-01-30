@@ -8,7 +8,7 @@ body {
     justify-content: center;
     font-family: 'Nunito', sans-serif;
     text-align: center;
-    font-size: 26px;
+    font-size: 42px;
 }
 
 h1 {
@@ -38,17 +38,16 @@ button {
     background-color: #ff4d88;
     color: white;
     margin-right: 10px;
-    font-size: 26px;
 }
 
 .no {
     background-color: #ffffff;
     color: #ff4d88;
-    font-size: 26px;
 }
 
 button:hover {
     opacity: 0.85;
 
 }
+
 
