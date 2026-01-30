@@ -28,7 +28,7 @@ img {
 
 button {
     padding: 12px 30px;
-    
+    font-size: 26px;
     border: none;
     border-radius: 10px;
     cursor: pointer;
@@ -38,14 +38,17 @@ button {
     background-color: #ff4d88;
     color: white;
     margin-right: 10px;
+    font-size: 26px;
 }
 
 .no {
     background-color: #ffffff;
     color: #ff4d88;
+    font-size: 26px;
 }
 
 button:hover {
     opacity: 0.85;
 
 }
+
