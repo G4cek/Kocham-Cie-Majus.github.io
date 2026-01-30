@@ -28,7 +28,6 @@ img {
 
 button {
     padding: 12px 30px;
-    font-size: 26px;
     border: none;
     border-radius: 10px;
     cursor: pointer;
@@ -49,5 +48,6 @@ button:hover {
     opacity: 0.85;
 
 }
+
 
 
