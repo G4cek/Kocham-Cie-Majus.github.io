@@ -8,6 +8,7 @@ body {
     justify-content: center;
     font-family: 'Nunito', sans-serif;
     text-align: center;
+    font-size: 26px;
 }
 
 h1 {
@@ -27,7 +28,7 @@ img {
 
 button {
     padding: 12px 30px;
-    font-size: 18px;
+    
     border: none;
     border-radius: 10px;
     cursor: pointer;
@@ -46,4 +47,5 @@ button {
 
 button:hover {
     opacity: 0.85;
+
 }
